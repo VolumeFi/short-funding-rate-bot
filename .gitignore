@@ -1,0 +1,10 @@
+.env
+.hypothesis
+node_modules
+.idea/
+.idea
+events.db
+networks.json
+data.db
+
+data.*
